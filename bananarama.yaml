@@ -1,0 +1,11 @@
+defaults:
+  style: >
+    Flat vector editorial illustration with a muted, desaturated
+    color palette. Mid-century modern aesthetic. Calm and approachable.
+  aspect-ratio: "16:9"
+
+images:
+  - name: example-slide
+    description: >
+      Draw a picture of a person overseeing a factory full of robots.
+      The robots should be typing at computers.
