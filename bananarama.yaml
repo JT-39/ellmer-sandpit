@@ -1,11 +1,19 @@
 defaults:
   style: >
-    Flat vector editorial illustration with a muted, desaturated
-    color palette. Mid-century modern aesthetic. Calm and approachable.
+    Friendly British early-reader picture-book-inspired editorial illustration,
+    with simple rounded cartoon forms, expressive poses, clear dark charcoal
+    outlines, flat colour blocking, and a subtle paper texture. Warm, playful,
+    optimistic, and easy to understand at a glance. Use the GOV.UK web palette:
+    blue, green, teal, purple, magenta, red, orange, yellow, brown, black,
+    white, and their tints and shades. Prefer strong contrast between figures
+    and backgrounds, never rely on colour alone to communicate meaning, and
+    leave generous uncluttered space for editable slide text. Do not reproduce
+    named characters or copy a specific published illustration.
   aspect-ratio: "16:9"
 
 images:
   - name: example-slide
     description: >
-      Draw a picture of a person overseeing a factory full of robots.
-      The robots should be typing at computers.
+      Draw a picture of a person calmly overseeing a friendly factory full of
+      robots typing at computers. Keep the scene simple, with one clear focal
+      action and open space on the left for a slide title.
