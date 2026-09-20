@@ -1,2 +1,8 @@
+# Generated image directories and temporary prompt configuration.
 bananarama/
+demo/
+demo.yaml
+# Local credentials and the project-specific renv library.
 .Renviron
+renv/library/
+renv/staging/
