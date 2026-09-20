@@ -1,3 +1,4 @@
+# Keep the shared visual language here; bananarama appends it to each prompt.
 defaults:
   style: >
     Friendly British early-reader picture-book-inspired editorial illustration,
@@ -9,9 +10,11 @@ defaults:
     and backgrounds, never rely on colour alone to communicate meaning, and
     leave generous uncluttered space for editable slide text. Do not reproduce
     named characters or copy a specific published illustration.
+  # The deck uses widescreen presentation slides.
   aspect-ratio: "16:9"
 
 images:
+  # Keep image names stable because they determine output file names.
   - name: example-slide
     description: >
       Draw a picture of a person calmly overseeing a friendly factory full of
