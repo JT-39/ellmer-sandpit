@@ -49,9 +49,10 @@ the approach described in
 
 The shared style should remain stable as individual image descriptions change:
 use simple rounded cartoon forms, expressive poses, clear dark outlines, flat
-colour blocking, and generous uncluttered space for slide text. Use GOV.UK
-palette colour names rather than inventing a new palette. Do not ask the model
-to reproduce named characters or copy a particular published illustration.
+colour blocking, full-bleed compositions, and modest uncluttered space for
+slide text. Use GOV.UK palette colour names rather than inventing a new
+palette. Do not ask the model to reproduce named characters or copy a
+particular published illustration.
 
 To add a recurring character (e.g. yourself), drop a reference image such as `hadley.png`
 next to the YAML file, then reference it in a description with `[hadley]`.

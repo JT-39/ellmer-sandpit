@@ -5,7 +5,7 @@
 description <- paste(
   "Draw a picture of a person calmly overseeing a friendly factory full of",
   "robots typing at computers. Keep the scene simple, with one clear focal",
-  "action and open space on the left for a slide title.",
+  "action and a balanced full-bleed composition across the entire 16:9 canvas.",
   sep = " "
 )
 
@@ -27,7 +27,7 @@ if (!requireNamespace("bananarama", quietly = TRUE)) {
 config <- yaml::read_yaml(source_yaml)
 # Replace the deck images with one isolated prompt for faster iteration.
 demo_image <- list(
-  name = "demo-slide",
+  name = "demo-slide2",
   description = description
 )
 if (candidates > 1L) {
